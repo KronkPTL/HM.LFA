@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553842031 source:d:\probleme info\facultate\semestru 2\lfa\tema 1\1\main.cpp
+	<map>
+	<vector>
+	<cstdio>
+	<cstring>
+	<fstream>
+	<iostream>
+
