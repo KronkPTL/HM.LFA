@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557299530 source:d:\probleme info\facultate\semestru 2\lfa\tema2\minimizare dfa 3\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

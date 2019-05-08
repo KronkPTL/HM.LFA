@@ -1,0 +1,8 @@
+Starea {A} cu 0 ajunge in: {B,C} 
+Starea {A} cu 1 ajunge in: {B,C} 
+Starea {B,C} cu 0 ajunge in: {D,E} 
+Starea {B,C} cu 1 ajunge in: {D,E} -> grupul curent este o STARE FINALA
+Starea {D,E} cu 0 ajunge in: {G} 
+Starea {D,E} cu 1 ajunge in: {G} 
+Starea {G} cu 0 ajunge in: {G} 
+Starea {G} cu 1 ajunge in: {G} -> grupul curent este o STARE FINALA
