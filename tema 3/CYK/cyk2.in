@@ -1,0 +1,8 @@
+7
+S -> AB ;
+A -> CD | CF ;
+B -> EB | c ;
+C -> a ;
+D -> b ;
+E -> c ;
+F -> AD ;
